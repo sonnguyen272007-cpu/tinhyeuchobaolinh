@@ -244,7 +244,7 @@ function initParticles() {
     pigBtn.classList.add('hidden');
 
     if (roseText) {
-        roseText.innerHTML = "Vk iu Bảo Linh thít hăm ❤️😘";
+        roseText.innerHTML = "Vk iu Bảo Linh thít hăm ❤️💕";
         roseText.classList.add('hidden');
     }
 
